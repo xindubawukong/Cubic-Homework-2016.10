@@ -67,7 +67,7 @@ struct Recorder
 		go["zhuanB"]=go0["zhuanD"];
 		go["zhuanBi"]=go0["zhuanDi"];
 		go["zhuanD"]=go0["zhuanF"];
-		go["zhuanDi"]=go0["zhuanFi"];
+		go["zhuanDi"]= go0["zhuanFi"];
 		go["zhuanF"]=go0["zhuanU"];
 		go["zhuanFi"]=go0["zhuanUi"];
 		go["zhuanU"]=go0["zhuanB"];
